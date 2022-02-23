@@ -8,7 +8,7 @@
 <img src="https://media2.giphy.com/media/sxOhzsn0DUXR3PvbxD/giphy.gif" align="right" width="300px">
   
 ## My name is Kethlyn Sara
-  - 👋 Welcome to my profile!
+  - 👋 Welcome to my profile✨
   - 📚  I'm a Computer Science student at Federal University of Lavras
   - 🌱 Future Full Stack Web Developer
  
