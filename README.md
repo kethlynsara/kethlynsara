@@ -6,10 +6,6 @@
  <a href="mailto:kethlynsaraa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></ a>
 </p>
 
-<!-- 
-[![Gmail Badge](https://img.shields.io/badge/-kethlynsaraa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kethlynsaraa@gmail.com)](mailto:kethlynsaraa@gmail.com) -->
- 
-
 <img src="https://media2.giphy.com/media/sxOhzsn0DUXR3PvbxD/giphy.gif" align="right" width="300px">
   
 ## My name is Kethlyn Sara
@@ -25,5 +21,3 @@
   
   
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
-
