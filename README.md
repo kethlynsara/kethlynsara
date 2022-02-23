@@ -11,7 +11,7 @@
 ## My name is Kethlyn Sara
   - 👋 Welcome to my profile✨
   - 📚  I'm a Computer Science student at Federal University of Lavras
-  - 🌱 Currently studying to become a full-stack developer
+  - 🌱 Currently studying to become a full stack developer
  
 <div>
 <a href="https://github.com/kethlynsara">
