@@ -3,7 +3,11 @@
 <p>
  <a href="https://https://www.instagram.com/kethlynsara//" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/kethlyn-sara-0550631b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<!--  <img src="{https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}" /> -->
 </p>
+
+[![Gmail Badge](https://img.shields.io/badge/-kethlynsaraa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kethlynsaraa@gmail.com)](mailto:kethlynsaraa@gmail.com)
+
 
 <img src="https://media2.giphy.com/media/sxOhzsn0DUXR3PvbxD/giphy.gif" align="right" width="300px">
   
