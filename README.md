@@ -6,7 +6,7 @@
  <a href="mailto:kethlynsaraa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></ a>
 </p>
 
-<img src="https://media2.giphy.com/media/sxOhzsn0DUXR3PvbxD/giphy.gif" align="right" width="300px">
+<!-- <img src="https://media2.giphy.com/media/sxOhzsn0DUXR3PvbxD/giphy.gif" align="right" width="300px"> -->
   
 ## My name is Kethlyn Sara
   - 👋 Welcome to my profile✨
