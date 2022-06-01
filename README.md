@@ -1,4 +1,4 @@
- # Hello world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+ # Hello world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="29px">
 
 <p>
   <a href="https://www.instagram.com/kethlynsara/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -6,10 +6,9 @@
  <a href="mailto:kethlynsaraa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></ a>
 </p>
 
-<!-- <img src="https://media2.giphy.com/media/sxOhzsn0DUXR3PvbxD/giphy.gif" align="right" width="300px"> -->
+<img src="https://media2.giphy.com/media/sxOhzsn0DUXR3PvbxD/giphy.gif" align="right" width="300px"> 
   
-## My name is Kethlyn Sara
-  - 👋 Welcome to my profile✨
+## Welcome to my profile✨
   - 📚  I'm a Computer Science student at Federal University of Lavras
   - 🌱 Currently studying to become a full stack developer
  
