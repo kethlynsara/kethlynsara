@@ -5,7 +5,7 @@
 
 <p>
   <a href="https://www.instagram.com/kethlynsara/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/kethlyn-sara-0550631b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/kethlynsara/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="mailto:kethlynsaraa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></ a>
 </p>
 
@@ -23,7 +23,7 @@
 </div>
 
 ### Tech Stack
-  <p>Languages, Frameworks and Libraries</p>
+  <p>Languages, Frameworks and Libraries:</p>
   <div>
      <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40"/>  
      <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40"/>
@@ -39,7 +39,7 @@
 <br>
 <br>
 
-  <p>Tools, Databases, Deploy</p>
+  <p>Tools, Databases, Deploy:</p>
   <div>   
     <img align="left" alt="Docker" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
     <img align="left" alt="MongoDB" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
@@ -52,12 +52,5 @@
      <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
   </div>
   
-
-  
-  
- 
-  
-  
   
 ![Snake animation](https://github.com/kethlynsara/kethlynsara/blob/output/github-contribution-grid-snake.svg)
- 
