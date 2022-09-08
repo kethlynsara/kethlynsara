@@ -11,8 +11,8 @@
 
   
 ## Welcome to my profile✨
-  - 📚  I'm a Software Developer
-  - 🌱 Currently studying Computer Science at Federal University of Lavras
+  - 📚  I'm a full stack web developer
+  - 🌱 Currently studying computer science at Federal University of Lavras
 
 ### GitHub Stats
  
