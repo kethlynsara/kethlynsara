@@ -10,7 +10,7 @@
 
   
 ## Welcome to my profile✨
-  - 📚  I'm a full stack web developer
+  - 📚  I'm a full stack developer
   - 🌱 Currently studying computer science at Federal University of Lavras
 
 ### GitHub Stats
