@@ -48,7 +48,7 @@
     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
     <img align="left" src="https://assets.vercel.com/image/upload/q_auto/front/favicon/vercel/57x57.png" alt="vercel" width="40" height="40"/>
     <img align="left" src="https://manzanit0.gallerycdn.vsassets.io/extensions/manzanit0/heroku-vscode/0.3.0/1590949018168/Microsoft.VisualStudio.Services.Icons.Default" alt="heroku" width="40" height="40"/>
-     <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
+    <! –<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
   </div>
   
   
